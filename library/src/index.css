@@ -7,3 +7,16 @@ body {
   margin: 0;
   font-family: 'Lexend Deca', sans-serif;
 }
+
+.bg-header{
+  background-image: url('./assets/mangas.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-overlay{
+  background-color: rgba(0, 0, 0, 0.692);
+  width: 100%;
+  height: 100%;
+}

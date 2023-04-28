@@ -5,11 +5,21 @@ import Category from './Category'
 import MostViewed from './MostViewed'
 import MostPopular from './MostPopular'
 
+import Header from './Header'
+import Services from './Services'
+import About from './About'
+import NewArrivals from './NewArrivals'
+
 export {
     Navbar,
     Footer,
     Main,
     Category,
     MostViewed,
-    MostPopular
+    MostPopular,
+
+    Header,
+    Services,
+    About,
+    NewArrivals
 }
